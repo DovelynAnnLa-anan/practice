@@ -1,0 +1,98 @@
+<html>
+
+<P ALIGN = "Center"> 
+<head> </head>
+<title> "WEEK 3 DAY 1 & 2" </title>
+<body bgcolor = "FFCC00">
+</p>
+<u> The world is now suffering
+<br>
+from corona virus </u>
+<br>
+Let us always pray for our health.
+<br>
+<br>
+<P ALIGN = "Center"> 
+<img src="sun.jpg" width = "210", length = "210"> 
+</img>
+<br>
+The sunshine  is so bright
+<br>
+It gives hope to everyone 
+<br>
+<br>
+<img src="circle.jpg" width = "300", length = "300"> 
+</img>
+<br>
+It's a small
+<br>
+<b> World after all </b>
+</p>
+<br>
+<br>
+<P ALIGN = "Right">
+<img src="smiley.jpg" width = "450", "length = "450"> 
+</img>
+<br>
+<b> Always wear a smile, </b>
+<br>
+you might inspire somebody
+<br>
+with it.
+</p>
+<P ALIGN = "Left">
+<font color = "red"> <font size = "1">
+<i> "Beginning today, I will create a new future by creating a new me.
+</font>
+<br>
+<br>
+<font color = "black"> <font size = "2">
+No longer will I dwell in a pit of despair, 
+</font>
+<br>
+<br>
+<font color = "red"> <font size = "3">
+moaning over squandered time and lost opportunity. </i>
+</font>
+<br>
+<br>
+<font color = "black"> <font size = "4">
+I can do nothing about the past. My future is immediate.
+</font>
+<br>
+<br>
+<font color = "red"> <font size = "5">
+I will grasp it in both hands and carry it with running feet.
+</font>
+<br>
+<br>
+<font color = "black"> <font size = "6">
+When I am faced with the choice of doing nothing or doing something,
+<br>
+<br>
+<font color = "red"> <font size = "7">
+I will always choose to act! I seize this moment.
+</font>
+<br>
+<br>
+<font color = "gray"> <font size = "7">
+I choose now."~
+</font>
+<br>
+<br>
+<font color = "red"> <font size = "3">
+Andy Andrews
+</font>
+</p>
+<br>
+<br>
+<P ALIGN = "Right">
+<img src = "purple scenery wallpapers.jpg" width = "210" length = "210"> </img>
+<P ALIGN = "Center">
+<font color = "purple"> <font size = "10"> <font face = "verdana">
+Dovelyn Ann B. La-anan
+</font>
+</p>
+
+</body>
+</html>
